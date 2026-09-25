@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/1929-concatenation-of-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/1539-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhantthakur132/LeetCode-Submission1/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
 | ------- |
